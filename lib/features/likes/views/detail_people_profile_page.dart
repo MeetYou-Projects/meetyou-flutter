@@ -37,7 +37,7 @@ class DetailPeopleProfilePage extends StatelessWidget {
                 Padding(
                   padding: const EdgeInsets.symmetric(
                     vertical: AppPadding.p40,
-                    horizontal: AppPadding.p26,
+                    horizontal: AppPadding.p28,
                   ),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
