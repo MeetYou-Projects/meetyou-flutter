@@ -40,6 +40,12 @@ dependencies:
   shared_preferences: ^2.2.2
   image_picker: ^1.0.4
   appinio_swiper: ^2.0.3
+  http: ^0.13.6
+  flutter_flushbar: ^0.0.2
+  d_info: ^0.2.2
+  d_method: ^0.2.0
+  email_validator: ^2.1.17
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:
